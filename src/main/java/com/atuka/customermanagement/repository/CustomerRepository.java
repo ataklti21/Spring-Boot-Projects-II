@@ -7,5 +7,6 @@ import java.util.List;
 
 @Repository
 public interface CustomerRepository {
-    List<Customer> getCustomer();
+    List<Customer> getCustomers();
+    List<Customer> getCustomer(Long id);
 }
