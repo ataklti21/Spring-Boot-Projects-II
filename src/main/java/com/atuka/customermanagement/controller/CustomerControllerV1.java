@@ -1,6 +1,9 @@
 package com.atuka.customermanagement.controller;
 
 import com.atuka.customermanagement.exception.ApiRequestException;
+
+
+import com.atuka.customermanagement.exception.NotFoundException;
 import com.atuka.customermanagement.model.Customer;
 import com.atuka.customermanagement.service.CustomerService;
 import jakarta.validation.Valid;
@@ -31,7 +34,8 @@ public class CustomerControllerV1 {
 
     @GetMapping(path = "{customerId}/exception")
     public List<Customer> getCustomerException(@PathVariable Long customerId) {
-        throw new ApiRequestException("ApiRequestException for customer "+customerId);
+        throw new
+                ApiRequestException("ApiRequestException for customer "+customerId);
     }
 
     @PostMapping
@@ -41,13 +45,19 @@ public class CustomerControllerV1 {
     }
 
     @PutMapping(value = "{Id}")
-    public Customer editCustomer(@RequestBody Customer customer, @PathVariable Long Id) {
+    public Customer editCustomer(@RequestBody Customer customer,
+                                 @PathVariable Long Id) {
         System.out.println("Updating Customer Value");
         return customer;
     }
 
     @DeleteMapping(value = "{Id}")
     public void DeleteCustomer(@PathVariable Long Id) {
+        List<Customer> customers=getCustomer(Id);
+        customers.stream().filter(customerList->customerList.getCustomerID().equals(Id))
+                        .findFirst().orElseThrow(
+                                ()->new NotFoundException("Customer is not in the list"));
         System.out.println("Deleting Customer" + Id);
     }
+
 }

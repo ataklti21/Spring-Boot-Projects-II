@@ -1,0 +1,217 @@
+2024-04-02T15:48:45.627+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:48:45.628+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:48:46.013+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:48:46.014+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:48:46.015+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:48:46.040+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:48:46.040+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 408 ms
+2024-04-02T15:48:46.183+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:48:46.198+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:48:46.203+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.687 seconds (process running for 1243.568)
+2024-04-02T15:48:46.206+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:49:02.488+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:49:02.590+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:49:02.591+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:49:02.980+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:49:02.984+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:49:02.985+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:49:03.005+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:49:03.006+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 412 ms
+2024-04-02T15:49:03.138+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:49:03.153+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:49:03.158+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.614 seconds (process running for 1260.523)
+2024-04-02T15:49:03.160+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:49:06.620+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:49:06.738+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:49:06.739+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:49:07.175+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:49:07.176+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:49:07.176+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:49:07.208+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:49:07.208+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 463 ms
+2024-04-02T15:49:07.334+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:49:07.346+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:49:07.350+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.668 seconds (process running for 1264.716)
+2024-04-02T15:49:07.352+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:49:14.952+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:49:15.047+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:49:15.048+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:49:15.457+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:49:15.458+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:49:15.459+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:49:15.484+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:49:15.484+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 432 ms
+2024-04-02T15:49:15.618+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:49:15.635+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:49:15.639+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.632 seconds (process running for 1273.004)
+2024-04-02T15:49:15.641+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:49:29.409+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:49:29.504+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:49:29.505+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:49:29.872+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:49:29.876+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:49:29.876+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:49:29.900+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:49:29.900+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 393 ms
+2024-04-02T15:49:30.032+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:49:30.048+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:49:30.052+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.586 seconds (process running for 1287.417)
+2024-04-02T15:49:30.054+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:50:08.382+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:50:08.482+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:50:08.482+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:50:08.847+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:50:08.848+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:50:08.848+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:50:08.878+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:50:08.878+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 393 ms
+2024-04-02T15:50:09.006+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:50:09.019+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:50:09.022+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.584 seconds (process running for 1326.387)
+2024-04-02T15:50:09.024+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:51:10.157+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:51:10.264+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:51:10.264+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:51:10.636+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:51:10.637+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:51:10.637+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:51:10.659+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:51:10.659+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 391 ms
+2024-04-02T15:51:10.784+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:51:10.799+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:51:10.803+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.585 seconds (process running for 1388.169)
+2024-04-02T15:51:10.805+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:52:07.576+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:52:07.668+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:52:07.669+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:52:08.004+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:52:08.008+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:52:08.009+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:52:08.028+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:52:08.028+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 356 ms
+2024-04-02T15:52:08.118+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:52:08.127+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:52:08.130+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.499 seconds (process running for 1445.496)
+2024-04-02T15:52:08.131+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:55:58.728+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 13 class path changes (0 additions, 12 deletions, 1 modification)
+2024-04-02T15:55:58.839+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:55:58.839+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:55:59.202+03:00  WARN 10460 --- [CustomerManagement] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: java.lang.NullPointerException: Cannot read field "generatedClass" because "data" is null
+2024-04-02T15:55:59.208+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-02T15:55:59.214+03:00 ERROR 10460 --- [CustomerManagement] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+java.lang.NullPointerException: Cannot read field "generatedClass" because "data" is null
+	at org.springframework.cglib.proxy.Enhancer.nextInstance(Enhancer.java:783) ~[spring-core-6.1.5.jar:6.1.5]
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:321) ~[spring-core-6.1.5.jar:6.1.5]
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:562) ~[spring-core-6.1.5.jar:6.1.5]
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:407) ~[spring-core-6.1.5.jar:6.1.5]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:138) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:109) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:533) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:310) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:363) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:153) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:788) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:606) ~[spring-context-6.1.5.jar:6.1.5]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.4.jar:3.2.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.4.jar:3.2.4]
+	at com.atuka.customermanagement.CustomerManagement.main(CustomerManagement.java:13) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.2.4.jar:3.2.4]
+
+2024-04-02T15:56:03.771+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:56:03.772+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:56:04.177+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:56:04.178+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:56:04.178+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:56:04.205+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:56:04.205+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 430 ms
+2024-04-02T15:56:04.344+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:56:04.359+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:56:04.365+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.631 seconds (process running for 1681.731)
+2024-04-02T15:56:04.367+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:56:52.057+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:56:52.161+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:56:52.162+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:56:52.518+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:56:52.520+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:56:52.520+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:56:52.544+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:56:52.544+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 379 ms
+2024-04-02T15:56:52.679+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:56:52.692+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:56:52.696+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.578 seconds (process running for 1730.061)
+2024-04-02T15:56:52.697+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:57:32.072+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:57:32.176+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:57:32.177+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:57:32.598+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:57:32.603+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:57:32.603+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:57:32.624+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:57:32.624+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 444 ms
+2024-04-02T15:57:32.759+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:57:32.775+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:57:32.780+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.648 seconds (process running for 1770.146)
+2024-04-02T15:57:32.782+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:57:58.907+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:57:59.012+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:57:59.012+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:57:59.395+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:57:59.396+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:57:59.396+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:57:59.420+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:57:59.421+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 405 ms
+2024-04-02T15:57:59.546+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:57:59.562+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:57:59.567+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.6 seconds (process running for 1796.932)
+2024-04-02T15:57:59.569+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:58:21.499+03:00  INFO 10460 --- [CustomerManagement] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-02T15:58:21.601+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 10460 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:58:21.602+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:58:21.953+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:58:21.954+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:58:21.955+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:58:21.980+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:58:21.980+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 375 ms
+2024-04-02T15:58:22.111+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:58:22.126+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:58:22.131+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 0.573 seconds (process running for 1819.496)
+2024-04-02T15:58:22.133+03:00  INFO 10460 --- [CustomerManagement] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-02T15:58:48.559+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Starting CustomerManagement using Java 21.0.2 with PID 8804 (C:\Users\Admin\IdeaProjects\CustomerManagement\target\classes started by Admin in C:\Users\Admin\IdeaProjects\CustomerManagement)
+2024-04-02T15:58:48.563+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T15:58:48.661+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-02T15:58:48.661+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-02T15:58:50.235+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-04-02T15:58:50.308+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 0 JPA repository interfaces.
+2024-04-02T15:58:51.409+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-04-02T15:58:51.427+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-02T15:58:51.427+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02T15:58:51.515+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-02T15:58:51.516+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2853 ms
+2024-04-02T15:58:51.598+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-04-02T15:58:52.068+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:customerDb user=SA
+2024-04-02T15:58:52.071+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-04-02T15:58:52.085+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:customerDb'
+2024-04-02T15:58:52.487+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-04-02T15:58:52.857+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-04-02T15:58:53.007+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-04-02T15:58:54.009+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-04-02T15:58:54.283+03:00  WARN 8804 --- [CustomerManagement] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-04-02T15:58:55.363+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-04-02T15:58:55.397+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-04-02T15:58:55.539+03:00  WARN 8804 --- [CustomerManagement] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-04-02T15:58:56.091+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-02T15:58:56.141+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-04-02T15:58:56.154+03:00  INFO 8804 --- [CustomerManagement] [restartedMain] c.a.c.CustomerManagement                 : Started CustomerManagement in 8.356 seconds (process running for 9.73)
+2024-04-02T16:00:07.294+03:00  INFO 8804 --- [CustomerManagement] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-04-02T16:00:07.313+03:00  WARN 8804 --- [CustomerManagement] [SpringApplicationShutdownHook] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-224]
+2024-04-02T16:00:07.314+03:00  INFO 8804 --- [CustomerManagement] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-04-02T16:00:07.318+03:00  INFO 8804 --- [CustomerManagement] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
