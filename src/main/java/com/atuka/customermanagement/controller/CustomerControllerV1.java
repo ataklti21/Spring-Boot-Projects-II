@@ -11,6 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @RestController
 @RequestMapping("api/v1/customers")
@@ -24,11 +25,12 @@ public class CustomerControllerV1 {
 
     @GetMapping()
     public List<Customer> getCustomers() {
-        return customerService.getCustomers();
+        return customerService
+                .getCustomers();
     }
 
     @GetMapping(path = "{customerId}")
-    public List<Customer> getCustomer(@PathVariable Long customerId) {
+    public Customer getCustomer(@PathVariable Long customerId) {
         return customerService.getCustomer(customerId);
     }
 
@@ -53,11 +55,7 @@ public class CustomerControllerV1 {
 
     @DeleteMapping(value = "{Id}")
     public void DeleteCustomer(@PathVariable Long Id) {
-        List<Customer> customers=getCustomer(Id);
-        customers.stream().filter(customerList->customerList.getCustomerID().equals(Id))
-                        .findFirst().orElseThrow(
-                                ()->new NotFoundException("Customer is not in the list"));
-        System.out.println("Deleting Customer" + Id);
+         System.out.println("Deleting Customer" + Id);
     }
 
 }

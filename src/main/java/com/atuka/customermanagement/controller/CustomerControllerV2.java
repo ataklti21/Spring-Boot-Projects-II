@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @RestController
 @RequestMapping("api/v2/customer")
@@ -25,7 +26,7 @@ public class CustomerControllerV2 {
     }
 
     @GetMapping(value = "{customerId}")
-    public List<Customer> getCustomer(@PathVariable Long customerId) {
+    public Customer getCustomer(@PathVariable Long customerId) {
         return customerService.getCustomer(customerId);
     }
 
